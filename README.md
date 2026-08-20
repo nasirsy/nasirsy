@@ -1,41 +1,92 @@
-# Nasir
+<div align="center">
 
-### AI Engineer | Computer Vision, LLMs & Real-Time Systems
+# 👋 Nasir Shahzad Yasin
 
-I build practical AI solutions that turn machine-learning research into dependable products. My interests span computer vision, retrieval-augmented generation (RAG), LLM-powered automation, and real-time inference systems.
+### AI Engineer · Computer Vision · LLM Applications · Real-Time Systems
 
-I enjoy solving complex problems with thoughtful engineering: from preparing and analysing data, to developing models and APIs, to optimising and deploying systems for real-world use.
+[![Email](https://img.shields.io/badge/Email-nasirsyasin%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nasirsyasin@gmail.com)
+[![Open to Work](https://img.shields.io/badge/Status-Open%20to%20opportunities-22C55E?style=for-the-badge&logo=handshake&logoColor=white)](#-connect)
 
-## Focus Areas
-
-- **Generative AI & LLMs:** RAG systems, prompt engineering, Hugging Face, Transformers, LangChain, Ollama, and LLM fine-tuning
-- **Computer Vision:** object detection and tracking, segmentation, depth estimation, OpenCV, YOLO, NVIDIA Jetson, TensorRT, PyTorch, and ONNX optimisation
-- **AI Automation & Agents:** FastAPI, REST APIs, n8n, Flowise, LangChain, and production-oriented agent workflows
-- **Data & MLOps:** Python, SQL, Pandas, NumPy, MLflow, TensorBoard, Weights & Biases, Docker, CI/CD, AWS, and GCP
-
-## Technical Toolkit
-
-| Area | Technologies |
-| --- | --- |
-| Languages | Python, C++, Bash, HTML, CSS, LaTeX |
-| AI / ML | PyTorch, TensorFlow, Keras, scikit-learn, Transformers, LangChain, OpenCV, YOLO |
-| Data | PostgreSQL, MySQL, SQLite, Pandas, NumPy, Matplotlib, Seaborn, Plotly |
-| Deployment | FastAPI, Docker, AWS EC2, GCP, GitHub Actions, Git |
-| Edge & Simulation | NVIDIA Jetson, TensorRT, ONNX, ROS, Gazebo, SolidWorks, ANSYS |
-
-## What I Bring
-
-- An end-to-end mindset for AI systems, from data pipelines through deployment and monitoring
-- Experience across vision-based and language-based AI applications
-- A focus on scalable, maintainable solutions with measurable real-world value
-- Clear communication and a practical approach to learning new tools quickly
-
-## Connect
-
-I am open to AI engineering, machine-learning, computer-vision, and LLM application opportunities.
-
-- Email: [nasirsyasin@gmail.com](mailto:nasirsyasin@gmail.com)
+</div>
 
 ---
 
-*Based in Italy · English (Fluent) and Urdu*
+## ✨ About Me
+
+I am an AI engineer focused on building useful, reliable systems with **computer vision**, **large language models**, and **intelligent automation**. I enjoy taking an idea from raw data and experimentation to a deployable product—balancing model performance with clean APIs, practical infrastructure, and measurable outcomes.
+
+My work centres on real-time inference, RAG-based applications, agent workflows, and vision solutions that solve concrete business problems.
+
+<div align="center">
+
+`Computer Vision` · `Generative AI` · `RAG Systems` · `AI Automation` · `MLOps`
+
+</div>
+
+## 🚀 Areas of Expertise
+
+| | Focus | Tools & Technologies |
+| :---: | --- | --- |
+| 🤖 | **Generative AI & LLMs** | RAG, LangChain, Transformers, Hugging Face, Ollama, prompt engineering, LLM fine-tuning |
+| 👁️ | **Computer Vision** | OpenCV, YOLO, object detection & tracking, segmentation, depth estimation |
+| ⚡ | **Edge & Real-Time AI** | NVIDIA Jetson, TensorRT, PyTorch, ONNX optimisation, MobileNet |
+| 🔄 | **Automation & AI Agents** | n8n, Flowise, FastAPI, REST APIs, LangChain workflows |
+| 📊 | **Data & MLOps** | SQL, Pandas, NumPy, MLflow, TensorBoard, Weights & Biases |
+| ☁️ | **Cloud & Delivery** | Docker, AWS EC2, GCP, GitHub Actions, CI/CD |
+
+## 🛠️ Technical Toolkit
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+<details>
+<summary><b>Explore my complete toolkit</b></summary>
+
+<br>
+
+- **Languages:** Python, C++, Bash, HTML, CSS, LaTeX
+- **ML & data:** TensorFlow, Keras, scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Plotly
+- **Databases:** PostgreSQL, MySQL, SQLite
+- **Engineering:** FastAPI, Docker, GitHub Actions, REST APIs, Git
+- **Robotics & simulation:** ROS, Gazebo, SolidWorks, ANSYS
+- **Productivity & analytics:** Power BI, Tableau, Excel
+
+</details>
+
+## 🎯 What I Bring
+
+```text
+✓ End-to-end AI engineering — from data preparation to deployment and monitoring
+✓ Practical experience across language-based and vision-based AI solutions
+✓ A product mindset: scalable, maintainable systems built for real-world value
+✓ Curiosity, clear communication, and a fast-learning approach to new technology
+```
+
+## 🌍 Languages
+
+🇬🇧 **English** — Fluent &nbsp;&nbsp;·&nbsp;&nbsp; 
+🇵🇰 **Urdu** — Native &nbsp;&nbsp;·&nbsp;&nbsp; 
+
+## 📫 Connect
+
+I’m open to opportunities in **AI engineering**, **machine learning**, **computer vision**, and **LLM application development**. Feel free to get in touch.
+
+<div align="center">
+
+[![Contact Nasir](https://img.shields.io/badge/Contact%20Nasir-nasirsyasin%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nasirsyasin@gmail.com)
+
+<sub>Based in Italy · Building intelligent systems for real-world problems</sub>
+
+</div>
