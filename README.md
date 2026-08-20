@@ -1,75 +1,41 @@
-# Nexora AI GitHub Pages Website
+# Nasir
 
-Static one-page landing site for **Nexora AI**.
-No build step required.
+### AI Engineer | Computer Vision, LLMs & Real-Time Systems
 
-## Files
+I build practical AI solutions that turn machine-learning research into dependable products. My interests span computer vision, retrieval-augmented generation (RAG), LLM-powered automation, and real-time inference systems.
 
-- `index.html`
-- `styles.css`
-- `script.js`
-- `sitemap.xml`
-- `robots.txt`
-- `humans.txt`
+I enjoy solving complex problems with thoughtful engineering: from preparing and analysing data, to developing models and APIs, to optimising and deploying systems for real-world use.
 
-## Contact Form (Formspree)
+## Focus Areas
 
-The contact form submits to:
+- **Generative AI & LLMs:** RAG systems, prompt engineering, Hugging Face, Transformers, LangChain, Ollama, and LLM fine-tuning
+- **Computer Vision:** object detection and tracking, segmentation, depth estimation, OpenCV, YOLO, NVIDIA Jetson, TensorRT, PyTorch, and ONNX optimisation
+- **AI Automation & Agents:** FastAPI, REST APIs, n8n, Flowise, LangChain, and production-oriented agent workflows
+- **Data & MLOps:** Python, SQL, Pandas, NumPy, MLflow, TensorBoard, Weights & Biases, Docker, CI/CD, AWS, and GCP
 
-```html
-action="https://formspree.io/f/mjgenygk"
-```
+## Technical Toolkit
 
-This endpoint works on GitHub Pages with no backend.
+| Area | Technologies |
+| --- | --- |
+| Languages | Python, C++, Bash, HTML, CSS, LaTeX |
+| AI / ML | PyTorch, TensorFlow, Keras, scikit-learn, Transformers, LangChain, OpenCV, YOLO |
+| Data | PostgreSQL, MySQL, SQLite, Pandas, NumPy, Matplotlib, Seaborn, Plotly |
+| Deployment | FastAPI, Docker, AWS EC2, GCP, GitHub Actions, Git |
+| Edge & Simulation | NVIDIA Jetson, TensorRT, ONNX, ROS, Gazebo, SolidWorks, ANSYS |
 
-## Placeholder Setup
+## What I Bring
 
-1. Replace `REPLACE_WITH_SITE_URL` in:
-   - `index.html` (canonical, Open Graph, Twitter, JSON-LD)
-   - `sitemap.xml`
-   - `robots.txt`
-2. Replace `REPLACE_WITH_LINKEDIN_URL` in the JSON-LD `sameAs` field in `index.html`.
+- An end-to-end mindset for AI systems, from data pipelines through deployment and monitoring
+- Experience across vision-based and language-based AI applications
+- A focus on scalable, maintainable solutions with measurable real-world value
+- Clear communication and a practical approach to learning new tools quickly
 
-## Required Assets
+## Connect
 
-Add these files under `/assets`:
+I am open to AI engineering, machine-learning, computer-vision, and LLM application opportunities.
 
-- `/assets/og.png` (1200x630)
-- `/assets/logo.png`
-- `/assets/favicon.ico`
-- `/assets/apple-touch-icon.png`
+- Email: [nasirsyasin@gmail.com](mailto:nasirsyasin@gmail.com)
 
-## Enable GitHub Pages
+---
 
-1. Push this repository to GitHub.
-2. Open repository **Settings**.
-3. Go to **Pages**.
-4. Under **Build and deployment**:
-   - **Source**: `Deploy from a branch`
-   - **Branch**: `main`
-   - **Folder**: `/(root)`
-5. Save and wait for deployment.
-
-Your site URL will look like:
-`https://<your-username>.github.io/<repo-name>/`
-
-## SEO Checklist
-
-1. Add your production URL in all SEO placeholders.
-2. Verify your site in Google Search Console.
-3. Submit `sitemap.xml` in Search Console.
-4. Request indexing for the homepage.
-5. Re-check crawl/index status after deployment updates.
-
-## Important SEO Reality Note
-
-SEO helps indexing and ranking, but ranking depends on competition, backlinks, and content.
-
-## Quick Local Preview
-
-```bash
-cd /Users/mac/Documents/Nexora-AI
-python3 -m http.server 8000
-```
-
-Open `http://localhost:8000`.
+*Based in Italy · English (Fluent) and Urdu*
