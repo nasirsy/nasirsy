@@ -76,8 +76,8 @@ My work centres on real-time inference, RAG-based applications, agent workflows,
 
 ## 🌍 Languages
 
-🇬🇧 **English** — Fluent &nbsp;&nbsp;·&nbsp;&nbsp; 
-🇵🇰 **Urdu** — Native &nbsp;&nbsp;·&nbsp;&nbsp; 
+🇬🇧 **English** - Fluent &nbsp;&nbsp;·&nbsp;&nbsp; 
+🇵🇰 **Urdu** - Native 
 
 ## 📫 Connect
 
