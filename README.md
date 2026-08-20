@@ -2,7 +2,7 @@
 
 # 👋 Nasir Shahzad Yasin
 
-### AI Engineer · Computer Vision · LLM Applications · Real-Time Systems
+### AI Engineer · Researcher · LLM Applications · Real-Time Systems · Computer Vision
 
 [![Email](https://img.shields.io/badge/Email-nasirsyasin%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nasirsyasin@gmail.com)
 [![Open to Work](https://img.shields.io/badge/Status-Open%20to%20opportunities-22C55E?style=for-the-badge&logo=handshake&logoColor=white)](#-connect)
@@ -73,6 +73,18 @@ My work centres on real-time inference, RAG-based applications, agent workflows,
 ✓ A product mindset: scalable, maintainable systems built for real-world value
 ✓ Curiosity, clear communication, and a fast-learning approach to new technology
 ```
+
+## 📚 Research Publications
+
+### Classification of White Blood Cells Empowered with Auto Encoder and CNN
+
+**IEEE International Conference on Cyber Resilience (ICCR), 2022**
+
+Research combining Convolutional Neural Networks (CNNs) and AutoEncoders to automate the classification of white blood cell types. This work connects quality-assurance and automation engineering principles with applied deep learning and medical image analysis.
+
+[![Read on IEEE Xplore](https://img.shields.io/badge/Read%20on-IEEE%20Xplore-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://doi.org/10.1109/ICCR56254.2022.9996048)
+
+> **DOI:** [10.1109/ICCR56254.2022.9996048](https://doi.org/10.1109/ICCR56254.2022.9996048)
 
 ## 🌍 Languages
 
