@@ -76,7 +76,8 @@ My work centres on real-time inference, RAG-based applications, agent workflows,
 
 ## 🌍 Languages
 
-🇬🇧 **English** — Fluent &nbsp;&nbsp;·&nbsp;&nbsp; 🇵🇰 **Urdu** — Native &nbsp;&nbsp;·&nbsp;&nbsp; 🇩🇪 **German** — Conversational (B1)
+🇬🇧 **English** — Fluent &nbsp;&nbsp;·&nbsp;&nbsp; 
+🇵🇰 **Urdu** — Native &nbsp;&nbsp;·&nbsp;&nbsp; 
 
 ## 📫 Connect
 
@@ -86,6 +87,6 @@ I’m open to opportunities in **AI engineering**, **machine learning**, **compu
 
 [![Contact Nasir](https://img.shields.io/badge/Contact%20Nasir-nasirsyasin%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nasirsyasin@gmail.com)
 
-<sub>Based in Pakistan · Building intelligent systems for real-world problems</sub>
+<sub>Based in Italy · Building intelligent systems for real-world problems</sub>
 
 </div>
